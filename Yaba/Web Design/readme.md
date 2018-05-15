@@ -1,9 +1,3 @@
-Please name the file as the name of the project and add the following comment at the top of the file
+Since project are web projects, I recommend that they be hosted and the links to the projects posted here.
 
-<!--
-
-Project Name:
-
-Team Member(s) Name Email Phone Number
-
--->
+Decide what you think is best.
