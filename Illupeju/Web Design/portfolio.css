@@ -1,0 +1,172 @@
+body {
+	background-color: #dfdfdf;
+	color:#333333;
+	font-family: 'Courier New', 'Courier', 'Lucida Sans', 'Typewriter', 'Lucida Typewriter', 'Monospace';
+}
+
+.header {
+	border-top: solid 8px #019cdb;
+	margin-bottom: 18px;
+}
+
+.main-img {
+	margin-top: -60px;
+	max-width: 100$
+	height: auto;
+}
+
+* {margin: 0;padding: 0;}
+
+.nav {
+	margin-top: 12px;
+	margin-left: 10px;
+}
+
+.nav-item {
+	list-style: none;
+	display: inline;
+	margin-right: 12px;
+}
+
+a {
+	color: #019cdb;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #48b2e8;
+}
+
+.title {
+	color:#019cdb;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+}
+
+.footer {
+	text-align: center;
+	width: 100%;
+	margin-bottom: 2%;
+}
+
+.line {
+	border-top: 1px solid #828282;
+	width: 100%;
+	margin-left: 1%;
+	margin-right: 1%;
+}
+
+.footer-sub {
+	font-size: 30px;
+}
+
+.button {
+	border: 2px solid #019cdb;
+	color: #019cdb;
+	display: inline-block;
+	font-size: 20px;
+	margin-top: 12px;
+	padding: 12px 30px;
+}
+
+.button:hover {
+	background-color: #019cdb;
+	color: #dfdfdf;
+	cursor: pointer;
+}
+
+.main {
+	font-size: 78px;
+}
+
+.sub {
+	font-size: 57px;
+}
+
+.circle {
+	border-radius: 50px;
+}
+
+.flex {
+	display: -webkit-box; 
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: flex;
+	align-items: center;
+}
+
+.column {
+	flex-direction: column;
+}
+
+.logo {
+	z-index: 2;
+	width: 100px;
+}
+
+.titles {
+	margin-top: -22%;
+}
+
+.img-wrapper {
+	width: 60%
+}
+
+@media (max-width: 481px) {
+     .main {
+	font-size: 34px;
+}
+
+.sub {
+	font-size: 24px;
+ }
+}
+
+@media (min-width: 481px) and (max-width: 767px){
+	.main {
+		font-size: 64px;
+	}
+	.sub {
+		font-size: 46px;
+	}
+}
+
+@media (min-width: 481px) and (max-width: 630px){
+	.main {
+		font-size: 46px;
+	}
+	.sub {
+		font-size: 33px;
+	}
+}
+
+@media (max-width: 481px) {
+	...
+	.img-wrapper {
+		width: 95%
+	}
+}
+
+@media (max-width: 481px) and (max-width: 630px) {
+	...
+	.img-wrapper {
+		width: 75%
+	}
+}
+
+@media (max-width: 630px) and (max-width: 767px) {
+	...
+	.img-wrapper {
+		width: 65%
+	}
+}
+
+#image {
+	margin-left: 400px;
+}
+p{
+	color: #019cdb;
+	font-size: 30px;
+	text-decoration: blink;
+	padding-left: 20px;
+}
