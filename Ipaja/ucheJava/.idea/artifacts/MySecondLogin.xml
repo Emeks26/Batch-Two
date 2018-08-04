@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="MySecondLogin">
+    <output-path>$PROJECT_DIR$/out/artifacts/MySecondLogin</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="sample.Main" />
+        <option name="convertCss2Bin" value="true" />
+        <option name="description" value="This is the second and better version of my login app" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="title" value="Login" />
+        <option name="vendor" value="WayneJr" />
+        <option name="version" value="2.0" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="DbApp.jar">
+        <element id="module-output" name="DbApp" />
+      </element>
+    </root>
+  </artifact>
+</component>

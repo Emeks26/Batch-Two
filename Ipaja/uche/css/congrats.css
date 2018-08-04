@@ -1,0 +1,55 @@
+/**Congrats styles**/
+
+.congratsbody {
+	margin-bottom: 0;
+}
+
+.congratsdiv {
+	background-image: url("../img/hitem.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-color: cyan;
+	height: 62.5vh;
+	padding: 198px 0 0 36%;
+}
+
+.condiv {
+	background-color: #D2691E;
+	border: 3px solid transparent;
+	border-radius: 6px;
+	height: 245px;
+	width: 400px;
+	
+}
+
+.congratshead {
+	margin-top: 0;
+	color: #FFE4C4;
+	font-family: lucida handwriting;
+}
+
+.congratspara {
+	font-size: 1.4rem;
+	font-family: segoe print;
+}
+
+.congratshome {	
+/* 	padding-left: 109px; */
+	text-align: center;
+}
+
+.conghomelink {
+	color: cyan;
+	font-size: 1.2rem;
+	text-decoration: none;
+	font-family: lucida calligraphy;
+}
+
+.conghomelink:hover {
+	color: red;
+	transition-duration: 0.7s;
+}
+
+.conghomelink:active {
+	color: blue;
+}

@@ -1,0 +1,162 @@
+/**Form Styles**/
+
+input[type=text] {
+	width: 100%;
+	padding: 7px 20px;
+	box-sizing: border-box;
+	border: 2px solid cyan;
+	border-radius: 4px;
+	background-color: #555;
+	color: white;
+}
+
+input[type=text]:focus {
+	border: none;
+	border-bottom: 2px solid red;
+	border-radius: 0;
+	background-color: inherit;
+	color: white;
+	outline: none;
+	-webkit-transition-duration: 0.7s;
+	transition-duration: 0.7s;
+}
+
+input[type=password] {
+	width: 100%;
+	padding: 7px 20px;
+	box-sizing: border-box;
+	border: 2px solid cyan;
+	border-radius: 4px;
+	background-color: #555;
+	color: white;
+}
+
+input[type=password]:focus {
+	border: none;
+	border-bottom: 2px solid red;
+	border-radius: 0;
+	background-color: inherit;
+	color: white;
+	outline: none;
+	-webkit-transition-duration: 0.7s;
+	transition-duration: 0.7s;
+}
+
+input[type=email] {
+	width: 100%;
+	padding: 7px 20px;
+	box-sizing: border-box;
+	border: 2px solid cyan;
+	/*border: none;
+	border-bottom: 2px solid red;*/
+	border-radius: 4px;
+	background-color: #555;
+	color: white;
+}
+
+input[type=email]:focus {
+	border: none;
+	border-bottom: 2px solid red;
+	border-radius: 0;
+	background-color: inherit;
+	color: white;
+	outline: none;
+	-webkit-transition-duration: 0.7s;
+	transition-duration: 0.7s;
+}
+
+.textbox {
+	width: 100%;
+	padding: 7px 20px;
+	box-sizing: border-box;
+	border: 2px solid cyan;
+	border-radius: 4px;
+	background-color: #555;
+	color: white;
+	resize: none;
+}
+
+.textbox:focus {
+	border: none;
+	border-bottom: 2px solid red;
+	border-radius: 0;
+	background-color: inherit;
+	color: white;
+	outline: none;
+	-webkit-transition-duration: 0.7s;
+	transition-duration: 0.7s;
+}
+
+.signup_background {
+	background-color: blue;
+	color: white;
+	background-image: url("../img/hitem.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 600px;
+	margin-top: 0;	
+}
+
+.fieldset {
+	padding-top: 0;
+	padding-bottom: 80px;
+	height: 390px;
+	align-content: center;
+}
+
+.formdiv {
+	align-items: center;
+	/*background-color: #222;*/
+	/*width: 300px;*/
+	height: 80vh;
+	padding: 5.7vh 15% 24vh 36%;
+	margin-right: 18vw;
+}
+
+.form {
+	padding:  10px 40px 70px 40px;
+	background-color: chocolate;
+	height: 440px;
+	width: 23vw;
+	font-family: Segoe Print;
+	font-size: 15;
+	border-radius: 8px;
+	margin: 7.3% 0 0 37%;
+}
+
+
+
+#regbtn {
+	margin: 0 10px 20px 74px;
+	background: -moz-linear-gradient(#61a2b1, #2A5058);
+	color: white;
+	border: solid;
+	/*border-color: #2A5058;*/
+	border-radius: 12px;
+	padding: 10px 20px;
+	text-align: center;
+	text-decoration: none;
+	font-family: lucida sans;
+	display: inline-block;
+	font-size: 16px;
+	-webkit-transition-duration: 0.7s; /*Safari*/
+	transition-duration: 0.7s;
+/*	opacity: 0.7;
+	cursor: not-allowed;*/
+	position: relative;
+	transition: all 0.5s;
+	cursor: pointer;
+	
+}
+
+#regbtn:hover {
+	background-color: #2A5058;
+	border-color: #61a2b1;
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+	color: cyan;
+}
+
+#regbtn:active {
+	color: purple;
+	text-decoration: underline;
+}
