@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Ayo and Teo Official Website</title> 
+</head>
+<h1 align="center" style="color: white;"><b>WATCH AMAZING REVERSE DANCE VIDEOS AND OTHER SUPERB VIDEOS <br>ALSO LISTEN TO LEGIT MUSICS</b></h1>
+<h2 style="color: red"><p>The tiles of the videos are listed below:</p></h2>
+<ul><h3>
+	<li>Ultimate Reverse Nae Nae</li>
+	<li>Leg Over</li>
+	<li>Kid dance</li>
+	<li>Galala</li>
+	<li>Money fall on you and many more...</li>
+</ul></h3>
+<body bgcolor="Teal">
+	<h3 style="color: cyan;"><marquee>This Video below is an example of Reverse dance video and Afro Beat dance.</marquee></h3>
+	<h3 style="color: red">1.</h3>
+	<video width="500" height="300" controls>
+		<source src="video/ultimate reverse nae nae.mp4" type="video/mp4">
+		<p>Your browser does not support this HTMLS format</p>
+	</video>
+	<h3 style="color: red">2.</h3>
+	<video width="500" height="300" controls>
+		<source src="video/one.mp4" type="video/mp4">
+	</video>
+	<audio width="200" controls>
+		<source src="audio/control.mp3" type="audio/mp3">
+	</audio>
+	<audio width="200" controls>
+		<source src="audio/single.mp3" type="audio/mp3">
+	</audio>
+	<h3 style="color: red">3.</h3>
+	<video width="500" height="300" controls>
+		<source src="video/two.mp4" type="video/mp4">
+	</video>
+	<h3 style="color: red">4.</h3>
+	<video width="500" height="300" controls>
+		<source src="video/three.mp4" type="video/mp4">
+	</video>
+	<h3 style="color: red">5.</h3>
+	<video width="500" height="300" controls>
+		<source src="video/four.mp4" type="video/mp4">
+	</video>
+	<h3 style="color: red">6.</h3>
+	<video width="500" height="300" controls>
+		<source src="video/Money fall on you.mp4" type="video/mp4">
+	</video>
+	<h3 style="color: red">7.</h3>
+	<video width="500" height="300" controls>
+		<source src="video/Galala.mp4" type="video/mp4">
+	</video>
+	<h3 style="color: red">8.</h3>
+	<video width="500" height="300" controls>
+		<source src="video/leg over.mp4" type="video/mp4">
+	</video>
+	<h3 style="color: red">9.</h3>
+	<video width="500" height="300" controls>
+		<source src="video/kid dance.mp4" type="video/mp4">
+	</video>
+
+<h2><p style="color: cyan">Meet the C.E.O of this site: <span style="color: white">ABDURRAHEEM PELUMI</span></h2></p>
+	<img src="image/pelumi.jpg" alt="pelumi on a snapchat" width="300" height="500">
+
+</body>
+</html>

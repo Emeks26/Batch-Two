@@ -1,0 +1,37 @@
+header {
+	background-color: grey;
+	color: white;
+	height: 80px;
+}
+
+main{
+	background-image: url('images/a10.jpg');
+	width: 300;
+	height: 600;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+nav ul li {
+	display: inline;
+	padding: 0px 5px 0px 5px; 
+	margin: 10px 5px 0px 5px; 
+}
+
+nav ul li a {
+	text-decoration: none
+}
+
+#Aside1 {
+	background-color: teal; 
+	color: white; 
+	height: 620px; 
+	float: left;
+	width: 250px;
+}
+
+#logo {
+	width: 70px
+	float: left;
+	height: 20px
+}
